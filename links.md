@@ -7,3 +7,5 @@ https://blog.nubank.com.br/nubank-abre-sua-biblioteca-de-machine-learning/: Bibl
 https://www.ime.usp.br/~pam/cdados.pdf
 
 http://hci.usask.ca/uploads/173-pap0297-bateman.pdf
+
+https://infovis.fh-potsdam.de/readings/Cairo2015.pdf
