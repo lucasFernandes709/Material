@@ -3,3 +3,5 @@
 https://developers.google.com/edu/python/regular-expressions: Guia para uso de Regex
 
 https://blog.nubank.com.br/nubank-abre-sua-biblioteca-de-machine-learning/: Biblioteca de ML do NuBank - FKLearn
+
+https://www.ime.usp.br/~pam/cdados.pdf
