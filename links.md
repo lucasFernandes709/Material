@@ -23,4 +23,5 @@ https://developers.google.com/edu/python/regular-expressions: Guia para uso de R
 
 
 
+
 https://www.ime.usp.br/~pam/cdados.pdf
