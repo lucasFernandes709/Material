@@ -1,9 +1,9 @@
 # Datasets
 Fontes para obter bases de dados de utilização livre
 [data.world | The Cloud-Native Data Catalog](https://data.world/)
-[Conjuntos de dados públicos para a análise do Azure]()
-[Top 10 Great Sites with Free Data Sets]()
-[Biblioteca de conjunto de dados - conjunto de dados Biblioteca]()
+[Conjuntos de dados públicos para a análise do Azure](https://docs.microsoft.com/pt-br/azure/sql-database/sql-database-public-data-sets)
+[Top 10 Great Sites with Free Data Sets](https://towardsdatascience.com/top-10-great-sites-with-free-data-sets-581ac8f6334)
+[Biblioteca de conjunto de dados Minitab](https://support.minitab.com/pt-br/datasets/)
 
 # Estatística e Probabilidade
 [Statistical Topics at Yale](http://www.stat.yale.edu/Courses/1997-98/101/toplist.htm): Resumo de vários tópicos de Estatística pela Universidade de Yale
