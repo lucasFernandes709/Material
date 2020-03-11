@@ -1,3 +1,6 @@
+# Cheatsheets
+[Shervine Amidi teaching page](https://stanford.edu/~shervine/teaching/): Cheatsheets highlighting the important points of Computer Science classes at Stanford University
+
 # Datasets
 Fontes para obter bases de dados de utilização livre
 [data.world | The Cloud-Native Data Catalog](https://data.world/)
