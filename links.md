@@ -13,6 +13,9 @@ Fontes para obter bases de dados de utilização livre
 [Which Is Better, Stepwise Regression or Best Subsets Regression?](https://blog.minitab.com/blog/adventures-in-statistics-2/which-is-better-stepwise-regression-or-best-subsets-regression): Estratégias para obtenção de um bom modelo de regressão
 [How do you check the quality of your regression model in Python?](https://towardsdatascience.com/how-do-you-check-the-quality-of-your-regression-model-in-python-fa61759ff685): Artigo com instruções e referências para realizar análise de resíduos
 
+# Livros
+[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/): Livro com guias básicos sobre Machine Learning
+
 # Machine Learning
 [Fklearn](https://blog.nubank.com.br/nubank-abre-sua-biblioteca-de-machine-learning/): Biblioteca de ML do NuBank - FKLearn
 
