@@ -36,6 +36,8 @@ Fontes para obter bases de dados de utilização livre
 [Building A Logistic Regression in Python, Step by Step](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8): Construção passo a passo de modelo de regressão logística, dataset 'Campanha de Marketing Banco Português'
 
 # Livros
+[DSA Deep Learning Book](http://www.deeplearningbook.com.br/): Ebook online da Data Science Academy sobre Deep Learning
+
 [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/): Livro com guias básicos sobre Machine Learning
 
 # Machine Learning
