@@ -35,6 +35,22 @@ Fontes para obter bases de dados de utilização livre
 
 [Building A Logistic Regression in Python, Step by Step](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8): Construção passo a passo de modelo de regressão logística, dataset 'Campanha de Marketing Banco Português'
 
+[Logistic Regression in Python Using Rodeo](http://blog.yhat.com/posts/logistic-regression-python-rodeo.html): Regressão Logística com biblioteca 'statsmodels'
+
+[Credit Fraud || Dealing with Imbalanced Datasets](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets): Análise de fraude em cartão de crédito com regressão logística
+
+[Credit card fraud detection](https://www.kaggle.com/joparga3/in-depth-skewed-data-classif-93-recall-acc-now): Comparação de diferentes técnicas de pré-processamento em dados não balanceados
+
+[Logistic regression vs. multiple regression](https://cooldata.wordpress.com/2012/08/20/logistic-regression-vs-multiple-regression/): Comparação entre regressão linear e logística
+
+## Séries Temporais
+
+[Time Series Analysis in Python – A Comprehensive Guide with Examples](https://www.machinelearningplus.com/time-series/time-series-analysis-python/): Amplo guia para análise de séries temporais em Python
+
+[Statistical forecasting: notes on regression and time series analysis](http://people.duke.edu/~rnau/411home.htm): Notas do prof. Robert Nau, da Duke University, sobre regressão e análise de séries temporais
+
+[]():
+
 # Livros
 [DSA Deep Learning Book](http://www.deeplearningbook.com.br/): Ebook online da Data Science Academy sobre Deep Learning
 
