@@ -56,6 +56,10 @@ Fontes para obter bases de dados de utilização livre
 
 [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/): Livro com guias básicos sobre Machine Learning
 
+[Forecasting: Principles and Practice](https://otexts.com/fpp2/): Livro sobre Séries Temporais - Rob J Hyndman and George A - Monash University, Australia
+
+[Introdução à Ciência de Dados - Fundamentos e Aplicações](https://www.ime.usp.br/~pam/cdados.pdf): Pedro A. Morettin; Julio M. Singer - Departamento de Estatística - USP
+
 # Machine Learning
 [Fklearn](https://blog.nubank.com.br/nubank-abre-sua-biblioteca-de-machine-learning/): Biblioteca de ML do NuBank - FKLearn
 
@@ -73,10 +77,3 @@ https://infovis.fh-potsdam.de/readings/Cairo2015.pdf
 
 ## RegEx
 [Python Regular Expressions](https://developers.google.com/edu/python/regular-expressions): Guia do Google para uso de Regex
-
-
-
-
-
-
-https://www.ime.usp.br/~pam/cdados.pdf
