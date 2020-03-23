@@ -60,6 +60,8 @@ Fontes para obter bases de dados de utilização livre
 
 [Introdução à Ciência de Dados - Fundamentos e Aplicações](https://www.ime.usp.br/~pam/cdados.pdf): Pedro A. Morettin; Julio M. Singer - Departamento de Estatística - USP
 
+[Introduction to Data Science](https://rafalab.github.io/dsbook/index.html): Data Analysis and Prediction Algorithms with R - Rafael A. Irizarry
+
 # Machine Learning
 [Fklearn](https://blog.nubank.com.br/nubank-abre-sua-biblioteca-de-machine-learning/): Biblioteca de ML do NuBank - FKLearn
 
