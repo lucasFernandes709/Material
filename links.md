@@ -49,7 +49,7 @@ Fontes para obter bases de dados de utilização livre
 
 [Statistical forecasting: notes on regression and time series analysis](http://people.duke.edu/~rnau/411home.htm): Notas do prof. Robert Nau, da Duke University, sobre regressão e análise de séries temporais
 
-[]():
+[Time Series Analysis](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3): Playlist do Youtube sobre análise de séries temporais. Canal ritvikmath
 
 # Livros
 [DSA Deep Learning Book](http://www.deeplearningbook.com.br/): Ebook online da Data Science Academy sobre Deep Learning
