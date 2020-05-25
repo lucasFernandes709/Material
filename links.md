@@ -49,6 +49,12 @@ Fontes para obter bases de dados de utilização livre
 
 [Statistical forecasting: notes on regression and time series analysis](http://people.duke.edu/~rnau/411home.htm): Notas do prof. Robert Nau, da Duke University, sobre regressão e análise de séries temporais
 
+[Exponential Smoothing in Python](https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/): A Gentle Introduction to Exponential Smoothing for Time Series Forecasting in Python
+
+[Exponential Smoothing Models with Python](https://medium.com/datadriveninvestor/how-to-build-exponential-smoothing-models-using-python-simple-exponential-smoothing-holt-and-da371189e1a1): How to Build Exponential Smoothing Models Using Python: Simple Exponential Smoothing, Holt, and Holt-Winters
+
+[]():
+
 [Time Series Analysis](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3): Playlist do Youtube sobre análise de séries temporais. Canal ritvikmath
 
 # Livros
